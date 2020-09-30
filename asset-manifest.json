@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.b4f9b9bf.chunk.js",
-    "main.js.map": "/static/js/main.b4f9b9bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d9839cda.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d9839cda.js.map",
-    "static/js/2.66969df3.chunk.js": "/static/js/2.66969df3.chunk.js",
-    "static/js/2.66969df3.chunk.js.map": "/static/js/2.66969df3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aa139cc9678955ab298d410b02d5ede5.js": "/precache-manifest.aa139cc9678955ab298d410b02d5ede5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.66969df3.chunk.js.LICENSE.txt": "/static/js/2.66969df3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/kubernetes-rbac-helper/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kubernetes-rbac-helper/static/js/main.a2ae8c5e.chunk.js",
+    "main.js.map": "/kubernetes-rbac-helper/static/js/main.a2ae8c5e.chunk.js.map",
+    "runtime-main.js": "/kubernetes-rbac-helper/static/js/runtime-main.71ef19be.js",
+    "runtime-main.js.map": "/kubernetes-rbac-helper/static/js/runtime-main.71ef19be.js.map",
+    "static/js/2.66969df3.chunk.js": "/kubernetes-rbac-helper/static/js/2.66969df3.chunk.js",
+    "static/js/2.66969df3.chunk.js.map": "/kubernetes-rbac-helper/static/js/2.66969df3.chunk.js.map",
+    "index.html": "/kubernetes-rbac-helper/index.html",
+    "precache-manifest.09ceb5fcbbc73f01968e8c8eaad9bab7.js": "/kubernetes-rbac-helper/precache-manifest.09ceb5fcbbc73f01968e8c8eaad9bab7.js",
+    "service-worker.js": "/kubernetes-rbac-helper/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kubernetes-rbac-helper/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.66969df3.chunk.js.LICENSE.txt": "/kubernetes-rbac-helper/static/js/2.66969df3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kubernetes-rbac-helper/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9839cda.js",
+    "static/js/runtime-main.71ef19be.js",
     "static/js/2.66969df3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b4f9b9bf.chunk.js"
+    "static/js/main.a2ae8c5e.chunk.js"
   ]
 }
