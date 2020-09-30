@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d93c8951831e5e7fc8a101eea0a014f3",
+    "revision": "094d3f9740f81aa419215f2a1956a6b1",
     "url": "/kubernetes-rbac-helper/index.html"
   },
   {
