@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.sass';
-import styled from 'styled-components'
 
 function App() {
   return (
