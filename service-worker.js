@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kubernetes-rbac-helper/precache-manifest.ab5feb74157a06a96d488ba369118ec7.js"
+  "/kubernetes-rbac-helper/precache-manifest.a4fe682bba89339e2fa067d56e047451.js"
 );
 
 self.addEventListener('message', (event) => {
