@@ -1,0 +1,23 @@
+{
+  "kubernetesResources": [
+    {
+      "k8sVersion": "1.18",
+      "resources": [
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "kind": "ServiceAccount",
+      "apiGroup": ""
+    },
+    {
+      "kind": "User",
+      "apiGroup": "rbac.authorization.k8s.io"
+    },
+    {
+      "kind": "Group",
+      "apiGroup": "rbac.authorization.k8s.io"
+    }
+  ]
+}
